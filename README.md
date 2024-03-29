@@ -30,8 +30,3 @@ _Tested with_
 
 ## 🎊 Sneak Peek
 ![This is Coding with Robo](PlaygroundBook/PrivateResources/ReadmeResources/ThisIsCodingWithRobo.png) ![]()
-
----
-
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
